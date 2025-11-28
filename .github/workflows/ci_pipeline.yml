@@ -25,12 +25,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # Stage 2: Pipeline Compilation (for Kubeflow) or syntax check
-      - name: Compile Kubeflow Pipeline
-        run: |
-          python src/pipeline.py  # or your compilation script
-          # Optional: kfp.compiler.Compiler().compile(...) if using Kubeflow SDK
-
       # Stage 3: Run MLflow Pipeline (optional testing)
       - name: Run MLflow Pipeline
         run: |
