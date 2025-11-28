@@ -1,0 +1,11 @@
+artifact_location: file:C:/Users/aimte/OneDrive/Desktop/uni work/mlops/assignment
+  4/mlops-kubeflow-assignment/mlruns/919689106699339204/models/m-091a1cd988cb4df5a99740d7f2f5b77b/artifacts
+creation_timestamp: 1764337752519
+experiment_id: '919689106699339204'
+last_updated_timestamp: 1764337757261
+model_id: m-091a1cd988cb4df5a99740d7f2f5b77b
+model_type: null
+name: model
+source_run_id: d96dd9f425cf404ea10ec30328dff0cf
+status: 2
+status_message: null

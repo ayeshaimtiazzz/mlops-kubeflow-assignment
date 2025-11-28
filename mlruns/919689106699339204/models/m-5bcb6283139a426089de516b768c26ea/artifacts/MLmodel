@@ -1,0 +1,22 @@
+artifact_path: file:C:/Users/aimte/OneDrive/Desktop/uni work/mlops/assignment 4/mlops-kubeflow-assignment/mlruns/919689106699339204/models/m-5bcb6283139a426089de516b768c26ea/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.6.0
+model_id: m-5bcb6283139a426089de516b768c26ea
+model_size_bytes: 3489964
+model_uuid: m-5bcb6283139a426089de516b768c26ea
+prompts: null
+run_id: fa275a8cfe934e44a6323a62d70bad3c
+utc_time_created: '2025-11-28 13:43:05.985187'

@@ -1,0 +1,11 @@
+artifact_location: file:C:/Users/aimte/OneDrive/Desktop/uni work/mlops/assignment
+  4/mlops-kubeflow-assignment/mlruns/919689106699339204/models/m-cb8b33bef4af4f4e97213aaac0616323/artifacts
+creation_timestamp: 1764337373919
+experiment_id: '919689106699339204'
+last_updated_timestamp: 1764337381298
+model_id: m-cb8b33bef4af4f4e97213aaac0616323
+model_type: null
+name: scaler
+source_run_id: 5c4ab4f0c6f54d69abcedbe5207d04cc
+status: 2
+status_message: null

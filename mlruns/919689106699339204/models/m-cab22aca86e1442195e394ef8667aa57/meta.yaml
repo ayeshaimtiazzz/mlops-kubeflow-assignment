@@ -1,0 +1,11 @@
+artifact_location: file:C:/Users/aimte/OneDrive/Desktop/uni work/mlops/assignment
+  4/mlops-kubeflow-assignment/mlruns/919689106699339204/models/m-cab22aca86e1442195e394ef8667aa57/artifacts
+creation_timestamp: 1764337747730
+experiment_id: '919689106699339204'
+last_updated_timestamp: 1764337752490
+model_id: m-cab22aca86e1442195e394ef8667aa57
+model_type: null
+name: random_forest_model
+source_run_id: d96dd9f425cf404ea10ec30328dff0cf
+status: 2
+status_message: null

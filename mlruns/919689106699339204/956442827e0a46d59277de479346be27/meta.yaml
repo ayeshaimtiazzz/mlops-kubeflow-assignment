@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/aimte/OneDrive/Desktop/uni work/mlops/assignment 4/mlops-kubeflow-assignment/mlruns/919689106699339204/956442827e0a46d59277de479346be27/artifacts
+end_time: 1764337390316
+entry_point_name: ''
+experiment_id: '919689106699339204'
+lifecycle_stage: active
+run_id: 956442827e0a46d59277de479346be27
+run_name: Evaluation
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764337390255
+status: 3
+tags: []
+user_id: aimte

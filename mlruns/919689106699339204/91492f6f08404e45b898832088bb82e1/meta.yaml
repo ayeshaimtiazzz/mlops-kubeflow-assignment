@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/aimte/OneDrive/Desktop/uni work/mlops/assignment 4/mlops-kubeflow-assignment/mlruns/919689106699339204/91492f6f08404e45b898832088bb82e1/artifacts
+end_time: 1764337747268
+entry_point_name: ''
+experiment_id: '919689106699339204'
+lifecycle_stage: active
+run_id: 91492f6f08404e45b898832088bb82e1
+run_name: Preprocessing
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764337731132
+status: 3
+tags: []
+user_id: aimte
