@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# DVC
+/.dvc/cache
+.dvc/tmp
+
+# Kubeflow / compiled components
+components/*.yaml
+
+# Docker
+*.tar
